@@ -1,0 +1,2 @@
+O seguinte desafio foi proposto no módulo 5 do curso de Iniciante em Programação - ONE + Alura, a ideia é criar um jogo do amigo secreto, onde inserimos os nomes e depois algum nome aleatório é sorteado. 
+Foi utilizada a linguagem de programação JavaScript e os dados foram baixados do GitHub da Alura.
